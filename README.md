@@ -1,16 +1,20 @@
 # chat_application_flutter
 
-A new Flutter project.
+This is a flutter chat app. Lets talk about the feature that it has right now
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Splash Screen
+2. Login Screen (Form Validation)
+3. Logout Screen (Form Validation x Firebase Support)
+4. Login with Gmail(UPCOMING)
+5. Enable Push Notification(UPCOMING)
+6. Create Group(UPCOMING)
+7. Add user in Chatroom
+8. Add friend or Remove friend(UPCOMING)
+9. Dark Mode/Light Mode
+10. Log out
+11. Send images
+12. Send messages
+13. Save User Details
+14. Edit User Name and info
+15. Save user data when app is on minimize or closed.
+etc. many features will be add on . 
