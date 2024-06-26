@@ -18,3 +18,10 @@ This is a flutter chat app. Lets talk about the feature that it has right now
 14. Edit User Name and info
 15. Save user data when app is on minimize or closed.
 etc. many features will be add on . 
+
+Technologies and Plugin that has used
+1. Dart
+2. Firebase(Auth, Core, Firestore)
+3. FlutterFire
+4. Provider
+5. Cupertino Icons.
